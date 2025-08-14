@@ -7,7 +7,7 @@ import (
 
 // dokumentasi packaage os : https://pkg.go.dev/os
 
-func main(){
+func main3(){
 	args := os.Args
 	fmt.Println(args)
 
